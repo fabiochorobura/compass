@@ -17,4 +17,4 @@ Dia 2 :: Ágil
   Dia 3 :: MasterClass
 
 - Inicio do curso Inicio rápido em testes e QA
-- Esta parte se instendera por hoje e os proximos dois dias
+- Esta parte se estendera por hoje e os proximos dois dias
