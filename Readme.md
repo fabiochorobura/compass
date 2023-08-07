@@ -13,4 +13,8 @@ Dia 2 :: Ágil
 - Leitura dos slides disponibilizados
 - Visualização dos seguintes Videos: Aprenda Scrum em 9 minutos,
   Cultura Agil-  Papeis e Responsabilidae
-  
+
+  Dia 3 :: MasterClass
+
+- Inicio do curso Inicio rápido em testes e QA
+- Esta parte se instendera por hoje e os proximos dois dias
