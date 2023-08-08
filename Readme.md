@@ -18,3 +18,9 @@ Dia 2 :: Ágil
 
 - Inicio do curso Inicio rápido em testes e QA
 - Esta parte se estendera por hoje e os proximos dois dias
+- Visualização dos videos 1 ao 6
+
+Dia 4 :: MasterClass
+
+-Continuação do conteúdo da Udemy.
+-Visualização dos videos 6 ao 18
