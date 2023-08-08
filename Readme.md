@@ -22,5 +22,5 @@ Dia 2 :: Ágil
 
 Dia 4 :: MasterClass
 
--Continuação do conteúdo da Udemy.
--Visualização dos videos 6 ao 18
+- Continuação do conteúdo da Udemy.
+- Visualização dos videos 6 ao 18
