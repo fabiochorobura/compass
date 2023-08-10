@@ -2,9 +2,9 @@ Fabio Chorobura 2023
 
 Sprint  I
 
-Dia 2 :: Ágil "Planning Sprint 1"
+Dia 3 :: MasterClass "Fundamentos do teste de software"
 
-- Realização do curso Scrum Agile na Udemy 
-- Leitura dos slides disponibilizados
-- Visualização dos seguintes vídeos: Aprenda Scrum em 9 minutos,
-  Cultura Ágil- Papeis e Responsabilidade
+- Inicio do curso "Início rápido em testes e QA"
+- Daily 15:00
+- Esta parte se estendera por hoje e os próximos dois dias
+- Visualização dos vídeos 1 ao 6
