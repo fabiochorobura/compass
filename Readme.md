@@ -2,13 +2,12 @@ Fabio Chorobura 2023
 
 Sprint  I
 
-Dia 5 :: MasterClass "Fundamentos do teste de software + Myers e o princípio de pareto"
+Dia 6 :: MasterClass "Fundamentos do teste de software (Back-End)"
 
-- Fim do curso "Inicio rápido em testes e QA"
-- Visualização dos vídeos 19 ao 33
-- Daily 15:00 
-- visualização em grupo do vídeo "myers e principio de pareto"
-- Conclusão do simulado 2 16:45 
-- Leitura de "Os mais importantes Princípios do Teste de Software" no site
-  tmtestes.com.br
-- Visualização do PDF "Fundamentos do teste"
+- Visualização vídeo "Fundamentos do teste de software (back-end) 13:30
+- Leitura " A pirâmide de testes" 13:50
+- Leitura " A pirâmide de prova prática" 14:10
+  *Ferramenta "LER EM VOZ ALTA" utilizada 
+- Daily 15:00
+- Realizamos a Dinâmica desejada no dia 5
+- Criação das braches para os dias específicos 
