@@ -2,8 +2,9 @@ Fabio Chorobura 2023
 
 Sprint  I
 
-Dia 1 :: Ágil
+Dia 2 :: Ágil "Planning Sprint 1"
 
-- Leitura inicial dos conteúdos 
-  Obs. README.md não realizado no dia proposto
-- Conversa em grupo com os demais colegas via whatsapp
+- Realização do curso Scrum Agile na Udemy 
+- Leitura dos slides disponibilizados
+- Visualização dos seguintes vídeos: Aprenda Scrum em 9 minutos,
+  Cultura Ágil- Papeis e Responsabilidade
